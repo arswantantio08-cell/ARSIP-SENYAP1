@@ -1,0 +1,54 @@
+
+# ARSIP SENYAP
+
+**Psychological Horror · Mystery · Exploration**
+
+ARSIP SENYAP adalah game Roblox tentang eksplorasi kota bawah tanah yang telah ditinggalkan. Pemain mengungkap misteri melalui dokumen, sinyal radio, dan petunjuk lingkungan.
+
+## Visi Produk
+
+Membangun pengalaman horor psikologis yang:
+- Memiliki atmosfer kuat dan imersif.
+- Menghadirkan misteri yang membuat pemain penasaran.
+- Memiliki dunia yang saling terhubung.
+- Mendukung multiplayer.
+- Memiliki arsitektur modular dan scalable.
+
+## Status Pengembangan
+
+- Tahap: Foundation & Prototype.
+- Target demo: 10–15 menit.
+- Area pertama: Stasiun bawah tanah.
+- Room pertama: Pintu Masuk Stasiun.
+- Ukuran Room 01: 50 × 35 × 16 studs.
+
+## Gameplay Demo
+
+1. Pemain memasuki stasiun.
+2. Pintu belakang menutup.
+3. Lampu berkedip dua kali.
+4. Pemain menemukan dokumen DOC-001.
+5. Pemain menjelajahi aula stasiun.
+6. Pemain menemukan sinyal radio misterius.
+7. Demo berakhir di terowongan arsip tersegel.
+
+## Struktur Proyek
+
+- Documentation: seluruh dokumen desain.
+- Roblox: script dan modul game.
+- Assets: audio, gambar, dan referensi.
+- Tests: dokumentasi pengujian.
+
+## Prinsip Pengembangan
+
+1. Jangan merusak fitur yang sudah berjalan.
+2. Gunakan sistem modular.
+3. Validasi gameplay penting di server.
+4. Siapkan multiplayer sejak awal.
+5. Dokumentasikan setiap perubahan.
+
+## Development Status
+
+Project documentation and initial Room 01 prototype scripts are being prepared.
+
+**Note:** Prototype scripts must be tested in Roblox Studio before production use.
